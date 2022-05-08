@@ -1,0 +1,155 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body{
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  header{
+    display: flex;
+    height: 13%;
+    background-color: rgb(219, 221, 221);
+  }
+  
+  nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+  }
+  
+  .logo{
+    width: 30%;
+    display: flex;
+    margin: 50px;
+    align-items: center;
+    color: rgb(90, 145, 247);
+  }
+  
+  a{
+    text-decoration: none;
+    margin: 10px;
+    color: rgb(19, 18, 18);
+    border-right: 3px solid black;
+    padding-right: 10px;
+  }
+  
+  main{
+    display: flex;
+    height: 74%;
+    background-image: url(images/backgroud-hotel.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  footer{
+    height: 13%;
+    background-color: rgb(219, 221, 221);
+  }
+  
+  .main-left{
+    height: 100%;
+    width: 50%;
+  }
+  
+  .main-right{
+    height: 100%;
+    width: 50%;
+    background-color: rgba(162, 173, 173, 0.8);
+  }
+  
+  .main-right *{
+    margin: 1px 5px;
+  }
+  .buttons{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+  }
+  
+  .main-btn{
+    cursor: pointer;
+    border: none;
+    background-color: rgb(90, 145, 247);
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+  }
+  
+  input[type=text], input[type=date], input[type=month]{
+    border: none;
+    background-color: rgba(255, 255, 255, 0.692);
+    padding: 5px;
+    border-radius: 20px;
+  }
+  
+  input:focus{
+    outline: none;
+  }
+  
+  .title{
+    font-size: 30px;
+  }
+  
+  .method{
+    width: 60%;
+    background-color: rgba(245, 245, 245, 0.445);
+    border-radius: 20px;
+    padding: 1px;
+  }
+  
+  .row1{
+    display: flex;
+  }
+  
+  .colmn-left{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .colmn-right{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(245, 245, 245, 0.445);
+    border-radius: 20px;
+  }
+  
+  footer{
+    display: flex;
+  }
+  
+  .footer-left{
+    width: 50%;
+  }
+  
+  .footer-right{
+    display: flex;
+    width: 50%;
+  }
+  
+  .footer-right-child-1{
+    width: 50%;
+  }
+  
+  .footer-right-child-2{
+    width: 50%;
+  }
+  
+  span{
+    color: rgb(84, 132, 221);
+  }
+  
+  i {
+    color: black;
+    font-size: 100px;
+  } */
