@@ -1,0 +1,40 @@
+.loginPageColOne {
+  background-image: url('../LoginPageSVG/loginformimg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  border-radius: 17px 0px 0px 17px;
+}
+
+/* body{
+ background-image: ''; 
+} */
+
+.loginPageColTwo {
+  background-color: #f3f3f3;
+  color: #ed960b;
+  border-radius: 0px 17px 17px 0px;
+}
+
+.loginPageCard {
+  padding: 5%;
+}
+
+.loginBtn {
+  background-color: #ed960b;
+  border-radius: 17px;
+  min-width: 150px;
+}
+
+.loginPageRow {
+  justify-content: center;
+}
+
+@media screen and (max-width: 500px) {
+  .loginPageColOne {
+    border-radius: 17px 17px 0px 0px;
+  }
+  .loginPageColTwo {
+    border-radius: 0px 0px 17px 17px;
+  }
+}
